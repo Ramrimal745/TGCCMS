@@ -1,0 +1,1 @@
+# Keep all classes from the weipl.checkout package-keep class com.weipl.checkout.** { *; }

@@ -1,0 +1,1 @@
+import 'package:freezed_annotation/freezed_annotation.dart';part 'BasicResponse.freezed.dart';part 'BasicResponse.g.dart';@Freezed()class BasicResponse with _$BasicResponse {  const factory BasicResponse({    bool? status,    String? remarks  }) = _BasicResponse;  factory BasicResponse.fromJson(Map<String, dynamic> json) =>      _$BasicResponseFromJson(json);}

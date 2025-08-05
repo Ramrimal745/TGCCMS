@@ -1,0 +1,2 @@
+C:/tcs_demo/android/app/.cxx/RelWithDebInfo/6c4x2qc1/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/tcs_demo/android/app/.cxx/RelWithDebInfo/6c4x2qc1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
